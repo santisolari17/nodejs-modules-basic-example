@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-modules-basic-example",
+  "version": "1.0.0",
+  "description": "Basic example of modules in a nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "placeholder"
+  },
+  "keywords": [
+    "nodejs",
+    "modules",
+    "require"
+  ],
+  "author": "Santiago Pirela",
+  "license": "ISC"
+}
+~
